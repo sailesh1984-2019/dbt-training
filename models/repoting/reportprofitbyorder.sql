@@ -8,6 +8,6 @@ select
     {{ ref('stg_orders') }}
 group by 
    productid,
-    productname,
-    catagory,
-    subcatagory
+   productname,
+   catagory,
+   subcatagory
