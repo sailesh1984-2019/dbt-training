@@ -16,7 +16,7 @@ sources:
       - name: product
 models:
   - name: raw_customer
-    description: contain the customer details with address
+    description: contain the customer details with address updated123
   - name: raw_product
     description: '{{doc("product")}}'
 
